@@ -1,5 +1,5 @@
-# Amazon-clone-html-css
-A simplified clone of the Amazon homepage using HTML and CSS.
+# Netflix-clone-html-css
+A simplified clone of the Netflix homepage using HTML and CSS.
 
 ## Features
 - Accurate replication of the Amazon homepage layout
