@@ -2,7 +2,7 @@
 A simplified clone of the Netflix homepage using HTML and CSS.
 
 ## Features
-- Accurate replication of the Amazon homepage layout
+- Accurate replication of the Netflix homepage layout
 
 ## Technologies Used
 - HTML
